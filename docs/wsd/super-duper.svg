@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="587px" preserveAspectRatio="none" style="width:1517px;height:587px;" version="1.1" viewBox="0 0 1517 587" width="1517px" zoomAndPan="magnify">
+  <defs>
+    <filter height="300%" id="f1nazbw3o9dj3z" width="300%" x="-1" y="-1">
+      <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+      <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+      <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+      <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+    </filter>
+  </defs>
+  <g>
+<style type="text/css">
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v15/zN7GBFwfMP4uA6AR0HCoLQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOKCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v15/W4wDsBUluyw0tK3tykhXEfesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(https://fonts.gstatic.com/s/roboto/v15/t6Nd4cfPRhZP44Q5QAjcC50EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}
+</style>
+    <!--cluster Super Duper logical scheme-->
+    <polygon fill="#FFFFFF" filter="url(#f1nazbw3o9dj3z)" points="195.5,16,401.5,16,408.5,38.4883,1100.5,38.4883,1100.5,575,195.5,575,195.5,16" style="stroke: #000000; stroke-width: 2.0;"/>
+    <line style="stroke: #000000; stroke-width: 2.0;" x1="195.5" x2="408.5" y1="38.4883" y2="38.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="200" x="199.5" y="31.5352">Super Duper logical scheme</text>
+    <!--cluster Yet another frame-->
+    <rect fill="#FFFFFF" filter="url(#f1nazbw3o9dj3z)" height="263" style="stroke: #000000; stroke-width: 2.0;" width="291" x="801.5" y="304"/>
+    <path d="M942.5,305 L942.5,313.4883 L932.5,323.4883 L801.5,323.4883 " fill="none" style="stroke: #000000; stroke-width: 2.0;"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="131" x="804.5" y="318.5352">Yet another frame</text>
+    <!--entity APP4-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="120" x="953.5" y="43"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="948.5" y="48"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="948.5" y="69.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="100" x="963.5" y="66.5352">Application #4</text>
+    <!--entity APP5-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="120" x="590.5" y="235"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="585.5" y="240"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="585.5" y="261.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="100" x="600.5" y="258.5352">Application #5</text>
+    <!--entity APP6-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="120" x="499.5" y="331"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="494.5" y="336"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="494.5" y="357.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="100" x="509.5" y="354.5352">Application #6</text>
+    <!--entity APP7-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="120" x="843.5" y="139"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="838.5" y="144"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="838.5" y="165.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="100" x="853.5" y="162.5352">Application #7</text>
+    <!--entity APP8-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="120" x="654.5" y="331"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="649.5" y="336"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="649.5" y="357.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="100" x="664.5" y="354.5352">Application #8</text>
+    <!--entity APP9-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="120" x="344.5" y="331"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="339.5" y="336"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="339.5" y="357.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="100" x="354.5" y="354.5352">Application #9</text>
+    <!--entity APP10-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="129" x="515" y="139"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="510" y="144"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="510" y="165.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="525" y="162.5352">Application #10</text>
+    <!--entity APP11-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="129" x="340" y="427"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="335" y="432"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="335" y="453.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="350" y="450.5352">Application #11</text>
+    <!--entity APP12-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="129" x="262" y="235"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="257" y="240"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="257" y="261.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="272" y="258.5352">Application #12</text>
+    <!--entity APP13-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="129" x="426" y="235"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="421" y="240"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="421" y="261.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="436" y="258.5352">Application #13</text>
+    <!--entity APP14-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="129" x="775" y="235"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="770" y="240"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="770" y="261.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="785" y="258.5352">Application #14</text>
+    <!--entity APP15-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="129" x="351" y="139"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="346" y="144"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="346" y="165.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="361" y="162.5352">Application #15</text>
+    <!--entity DB2-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="105" x="204" y="331"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="199" y="336"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="199" y="357.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="85" x="214" y="354.5352">Database #2</text>
+    <!--entity DB3-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="105" x="662" y="427"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="657" y="432"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="657" y="453.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="85" x="672" y="450.5352">Database #3</text>
+    <!--entity DB4-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="105" x="939" y="235"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="934" y="240"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="934" y="261.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="85" x="949" y="258.5352">Database #4</text>
+    <!--entity DB5-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="105" x="363" y="43"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="358" y="48"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="358" y="69.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="85" x="373" y="66.5352">Database #5</text>
+    <!--entity DB6-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="105" x="507" y="427"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="502" y="432"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="502" y="453.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="85" x="517" y="450.5352">Database #6</text>
+    <!--entity APP16-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="129" x="679" y="139"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="674" y="144"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="674" y="165.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="689" y="162.5352">Application #16</text>
+    <!--entity APP1-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="120" x="809.5" y="331"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="804.5" y="336"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="804.5" y="357.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="100" x="819.5" y="354.5352">Application #1</text>
+    <!--entity APP2-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="120" x="881.5" y="427"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="876.5" y="432"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="876.5" y="453.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="100" x="891.5" y="450.5352">Application #2</text>
+    <!--entity APP3-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="120" x="964.5" y="331"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="959.5" y="336"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="959.5" y="357.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="100" x="974.5" y="354.5352">Application #3</text>
+    <!--entity DB1-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="105" x="889" y="523"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="884" y="528"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="884" y="549.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="85" x="899" y="546.5352">Database #1</text>
+    <!--entity EXTAPP1-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="181" x="1109" y="235"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1104" y="240"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1104" y="261.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="161" x="1119" y="258.5352">External Application #1</text>
+    <!--entity EXTAPP2-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="181" x="1109" y="139"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1104" y="144"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1104" y="165.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="161" x="1119" y="162.5352">External Application #2</text>
+    <!--entity EXTAPP3-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="181" x="6" y="139"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1" y="144"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1" y="165.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="161" x="16" y="162.5352">External Application #3</text>
+    <!--entity EXTAPP4-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="181" x="1109" y="43"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1104" y="48"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1104" y="69.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="161" x="1119" y="66.5352">External Application #4</text>
+    <!--entity EXTAPP5-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="181" x="1109" y="427"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1104" y="432"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1104" y="453.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="161" x="1119" y="450.5352">External Application #5</text>
+    <!--entity EXTAPP6-->
+    <rect fill="#FEFECE" filter="url(#f1nazbw3o9dj3z)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="181" x="1325" y="427"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1320" y="432"/>
+    <rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1320" y="453.4883"/>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="161" x="1335" y="450.5352">External Application #6</text>
+    <!--link APP4 to EXTAPP2-->
+    <path d="M1053.2513,81.5168 C1086.2406,98.5435 1132.7115,122.5285 1164.356,138.8612 " fill="none" id="APP4-EXTAPP2" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="1048.4852,79.0569,1054.6481,86.7392,1052.9283,81.3502,1058.3174,79.6303,1048.4852,79.0569" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link EXTAPP2 to EXTAPP1-->
+    <path d="M1199.5,175.0569 C1199.5,190.5126 1199.5,212.8647 1199.5,229.6731 " fill="none" id="EXTAPP2-EXTAPP1" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="1199.5,234.6977,1203.5,225.6977,1199.5,229.6977,1195.5,225.6977,1199.5,234.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link EXTAPP2 to APP7-->
+    <path d="M1108.7434,157 C1062.0712,157 1015.399,157 968.7268,157 " fill="none" id="EXTAPP2-APP7" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="963.625,157,972.625,161,968.625,157,972.625,153,963.625,157" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link EXTAPP4 to EXTAPP2-->
+    <path d="M1199.5,79.0569 C1199.5,94.5126 1199.5,116.8647 1199.5,133.6731 " fill="none" id="EXTAPP4-EXTAPP2" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="1199.5,138.6977,1203.5,129.6977,1199.5,133.6977,1195.5,129.6977,1199.5,138.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link EXTAPP4 to APP7-->
+    <path d="M1143.8247,79.0569 C1092.6394,95.6575 1016.9239,120.2139 964.2051,137.3119 " fill="none" id="EXTAPP4-APP7" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="959.1767,138.9427,968.9717,139.9709,963.9328,137.4001,966.5036,132.3611,959.1767,138.9427" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link EXTAPP3 to APP7-->
+    <path d="M129.3167,138.8147 C151.1646,127.7757 180.9139,114.7413 209,109 C339.4142,82.3409 678.4818,78.2818 808,109 C830.4705,114.3294 853.6634,125.8212 871.5656,136.2243 " fill="none" id="EXTAPP3-APP7" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="875.9994,138.8413,870.2821,130.8218,871.6935,136.2997,866.2156,137.7112,875.9994,138.8413" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link EXTAPP1 to APP1-->
+    <path d="M1108.9986,270.6039 C1039.9334,284.1525 955.3025,301.0499 947.5,304 C931.2087,310.1597 914.3249,319.4804 900.4496,328.0444 " fill="none" id="EXTAPP1-APP1" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="895.8646,330.914,905.6157,329.53,900.103,328.2614,901.3715,322.7486,895.8646,330.914" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP5 to APP6-->
+    <path d="M633.3836,271.0569 C618.3539,286.9124 596.4446,310.0255 580.3866,326.9658 " fill="none" id="APP5-APP6" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="576.8491,330.6977,585.9437,326.9177,580.2889,327.0689,580.1377,321.4141,576.8491,330.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP5 to APP9-->
+    <path d="M590.2239,267.7057 C557.6786,276.5332 517.1789,288.9685 482.5,304 C466.9063,310.759 450.4907,319.8924 436.7633,328.1648 " fill="none" id="APP5-APP9" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="432.216,330.9325,441.9836,329.67,436.487,328.3328,437.8242,322.8363,432.216,330.9325" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP5 to APP3-->
+    <path d="M710.6107,263.1855 C796.5876,277.773 944.712,302.984 947.5,304 C963.8377,309.9539 980.6596,319.3442 994.3967,328.01 " fill="none" id="APP5-APP3" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="998.9319,330.9151,993.5108,322.6925,994.7216,328.2182,989.1958,329.429,998.9319,330.9151" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP5 to APP8-->
+    <path d="M662.5379,271.0569 C672.9306,286.6459 688.0004,309.2506 699.2377,326.1065 " fill="none" id="APP5-APP8" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="702.2985,330.6977,700.6343,320.9905,699.525,326.5375,693.978,325.4281,702.2985,330.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP3 to APP2-->
+    <path d="M1008.8883,367.0569 C995.2951,382.7791 975.5321,405.6375 960.9207,422.5375 " fill="none" id="APP3-APP2" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="957.3239,426.6977,966.236,422.5055,960.594,422.9153,960.1842,417.2733,957.3239,426.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP3 to EXTAPP5-->
+    <path d="M1057.4162,367.0569 C1087.1424,383.3638 1130.8629,407.3476 1161.9436,424.3976 " fill="none" id="APP3-EXTAPP5" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="1166.4344,426.8612,1160.4676,419.0255,1162.0507,424.4564,1156.6199,426.0394,1166.4344,426.8612" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP3 to EXTAPP6-->
+    <path d="M1084.7369,363.7896 C1152.307,380.3797 1262.1608,407.3515 1336.5526,425.6165 " fill="none" id="APP3-EXTAPP6" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="1341.8464,426.9163,1334.0599,420.8856,1336.9906,425.724,1332.1522,428.6548,1341.8464,426.9163" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP9 to APP11-->
+    <path d="M404.5,372.0611 C404.5,388.8106 404.5,411.1694 404.5,426.6977 " fill="none" id="APP9-APP11" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="404.5,367.0569,400.5,376.0569,404.5,372.0569,408.5,376.0569,404.5,367.0569" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP9 to APP6-->
+    <path d="M464.7441,349 C474.5153,349 484.2864,349 494.0575,349 " fill="none" id="APP9-APP6" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="499.1672,349,490.1672,345,494.1672,349,490.1672,353,499.1672,349" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP1 to APP2-->
+    <path d="M883.0426,367.0569 C894.8343,382.7791 911.9781,405.6375 924.6531,422.5375 " fill="none" id="APP1-APP2" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="927.7733,426.6977,925.5733,417.0977,924.7733,422.6977,919.1733,421.8977,927.7733,426.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP7 to APP5-->
+    <path d="M855.9126,175.0569 C812.4086,191.5643 748.1723,215.9386 703.1468,233.0234 " fill="none" id="APP7-APP5" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="698.3034,234.8612,708.1371,235.4078,702.9781,233.0872,705.2987,227.9282,698.3034,234.8612" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP7 to APP14-->
+    <path d="M891.4621,175.0569 C881.0694,190.6459 865.9996,213.2506 854.7623,230.1065 " fill="none" id="APP7-APP14" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="851.7015,234.6977,860.022,229.4281,854.475,230.5375,853.3657,224.9905,851.7015,234.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP10 to APP5-->
+    <path d="M592.8546,175.0569 C604.4825,190.7791 621.3882,213.6375 633.8871,230.5375 " fill="none" id="APP10-APP5" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="636.9639,234.6977,634.8284,225.0831,633.9908,230.6776,628.3963,229.8401,636.9639,234.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP10 to APP13-->
+    <path d="M562.7598,175.0569 C548.0604,190.9124 526.6327,214.0255 510.9275,230.9658 " fill="none" id="APP10-APP13" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="507.4678,234.6977,516.52,230.8172,510.8672,231.0311,510.6533,225.3782,507.4678,234.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP10 to APP16-->
+    <path d="M644.2031,157 C654.0021,157 663.8011,157 673.6001,157 " fill="none" id="APP10-APP16" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="678.7243,157,669.7243,153,673.7243,157,669.7243,161,678.7243,157" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP12 to APP13-->
+    <path d="M391.2031,253 C401.0021,253 410.8011,253 420.6001,253 " fill="none" id="APP12-APP13" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="425.7243,253,416.7243,249,420.7243,253,416.7243,257,425.7243,253" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP15 to APP13-->
+    <path d="M429.6069,175.0569 C441.8899,190.7791 459.7481,213.6375 472.9511,230.5375 " fill="none" id="APP15-APP13" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="476.2013,234.6977,473.8125,225.1429,473.123,230.7576,467.5084,230.0681,476.2013,234.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link DB5 to APP15-->
+    <path d="M415.5,84.0611 C415.5,100.8106 415.5,123.1694 415.5,138.6977 " fill="none" id="DB5-APP15" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="415.5,79.0569,411.5,88.0569,415.5,84.0569,419.5,88.0569,415.5,79.0569" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP14 to DB4-->
+    <path d="M904.2188,253 C914.0901,253 923.9614,253 933.8328,253 " fill="none" id="APP14-DB4" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="938.9949,253,929.9949,249,933.9949,253,929.9949,257,938.9949,253" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP14 to APP13-->
+    <path d="M801.9974,234.9204 C776.894,223.8485 742.7547,210.7372 711,205 C658.5164,195.5176 643.0152,193.216 591,205 C567.5307,210.317 543.1285,221.8085 524.2471,232.2145 " fill="none" id="APP14-APP13" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="519.5696,234.8323,529.3768,233.9272,523.9327,232.3903,525.4696,226.9462,519.5696,234.8323" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP8 to DB3-->
+    <path d="M714.5,367.0569 C714.5,382.5126 714.5,404.8647 714.5,421.6731 " fill="none" id="APP8-DB3" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="714.5,426.6977,718.5,417.6977,714.5,421.6977,710.5,417.6977,714.5,426.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP13 to APP5-->
+    <path d="M555.1875,253 C565.1217,253 575.0559,253 584.9901,253 " fill="none" id="APP13-APP5" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="590.1851,253,581.1851,249,585.1851,253,581.1851,257,590.1851,253" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP13 to DB2-->
+    <path d="M425.9648,268.9854 C395.4128,277.6048 358.8404,289.472 327.5,304 C313.2315,310.6142 298.3943,319.6341 285.9956,327.8622 " fill="none" id="APP13-DB2" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="281.5435,330.8519,291.2451,329.155,285.6943,328.0643,286.785,322.5136,281.5435,330.8519" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP6 to DB6-->
+    <path d="M559.5,367.0569 C559.5,382.5126 559.5,404.8647 559.5,421.6731 " fill="none" id="APP6-DB6" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="559.5,426.6977,563.5,417.6977,559.5,421.6977,555.5,417.6977,559.5,426.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--link APP2 to DB1-->
+    <path d="M941.5,463.0569 C941.5,478.5126 941.5,500.8647 941.5,517.6731 " fill="none" id="APP2-DB1" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <polygon fill="#A80036" points="941.5,522.6977,945.5,513.6977,941.5,517.6977,937.5,513.6977,941.5,522.6977" style="stroke: #A80036; stroke-width: 1.0;"/>
+    <!--
+@startuml
+
+package "Super Duper logical scheme" {
+
+  frame "Yet another frame" {
+    [Application #1] as APP1
+    [Application #2] as APP2
+    [Application #3] as APP3
+    [Database #1] as DB1
+  }
+  
+  [Application #4] as APP4
+  [Application #5] as APP5
+  [Application #6] as APP6
+  [Application #7] as APP7
+  [Application #8] as APP8
+  [Application #9] as APP9
+  [Application #10] as APP10
+  [Application #11] as APP11
+  [Application #12] as APP12
+  [Application #13] as APP13
+  [Application #14] as APP14
+  [Application #15] as APP15
+  [Database #2] as DB2
+  [Database #3] as DB3
+  [Database #4] as DB4
+  [Database #5] as DB5
+  [Database #6] as DB6
+  [Application #16] as APP16
+}
+
+[External Application #1] as EXTAPP1
+[External Application #2] as EXTAPP2
+
+[External Application #3] as EXTAPP3
+[External Application #4] as EXTAPP4
+[External Application #5] as EXTAPP5
+[External Application #6] as EXTAPP6
+
+
+EXTAPP2 -up-> APP4
+EXTAPP2 -down-> EXTAPP1
+EXTAPP2 - -> APP7
+
+EXTAPP4 - -> EXTAPP2
+EXTAPP4 -down-> APP7
+
+EXTAPP3 -right-> APP7
+
+EXTAPP1 - -> APP1
+
+APP5 - -> APP6
+APP5 -down-> APP9
+APP5 - -> APP3
+APP5 - -> APP8
+
+APP3 - -> APP2
+APP3 - -> EXTAPP5
+APP3 - -> EXTAPP6
+
+APP11 -up-> APP9
+APP9 -right-> APP6
+
+APP1 - -> APP2
+
+APP7 - -> APP5
+APP7 - -> APP14
+
+APP10 - -> APP5
+APP10 - -> APP13
+APP10 -right-> APP16
+
+
+APP12 -right-> APP13
+
+APP15 - -> APP13
+APP15 -up-> DB5
+
+APP14 -right-> DB4
+APP14 -right-> APP13
+
+APP8 - -> DB3
+
+APP13 -right-> APP5
+APP13 -down-> DB2
+
+APP6 - -> DB6
+
+APP2 - -> DB1
+
+@enduml
+
+PlantUML version 1.2017.16(Sun Sep 03 13:53:37 MSK 2017)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_71-b15
+Operating System: Mac OS X
+OS Version: 10.13
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+  </g>
+</svg>

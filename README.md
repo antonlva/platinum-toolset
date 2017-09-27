@@ -1,2 +1,9 @@
-# platinum-toolset
-PlantUML images toolset
+# Диаграммы
+
+Для создания картинок из диаграмм на языке PlantUML просто создайте файл согласно спецификации [PlantUML](http://plantuml.com/) с расширением `.wsd` в директории `docs`
+
+Для этого вам понадобится [plantuml-toolset](https://github.com/rbkmoney/plantuml-toolset). Будьте внимательны, для работы этому инструменту необходима Java Runtime.
+
+Установить его можно при помощи `make install-toolset`
+
+Теперь, чтобы сгенерировать изображения png и svg из файлов с диаграммами wsd, достаточно всего лишь `make`
