@@ -1,0 +1,91 @@
+@startuml
+
+package "Super Duper logical scheme" {
+
+  frame "Yet another frame" {
+    [Application #1] as APP1
+    [Application #2] as APP2
+    [Application #3] as APP3
+    [Database #1] as DB1
+  }
+  
+  [Application #4] as APP4
+  [Application #5] as APP5
+  [Application #6] as APP6
+  [Application #7] as APP7
+  [Application #8] as APP8
+  [Application #9] as APP9
+  [Application #10] as APP10
+  [Application #11] as APP11
+  [Application #12] as APP12
+  [Application #13] as APP13
+  [Application #14] as APP14
+  [Application #15] as APP15
+  [Database #2] as DB2
+  [Database #3] as DB3
+  [Database #4] as DB4
+  [Database #5] as DB5
+  [Database #6] as DB6
+  [Application #16] as APP16
+}
+
+[External Application #1] as EXTAPP1
+[External Application #2] as EXTAPP2
+
+[External Application #3] as EXTAPP3
+[External Application #4] as EXTAPP4
+[External Application #5] as EXTAPP5
+[External Application #6] as EXTAPP6
+
+
+EXTAPP2 -up-> APP4
+EXTAPP2 -down-> EXTAPP1
+EXTAPP2 --> APP7
+
+EXTAPP4 --> EXTAPP2
+EXTAPP4 -down-> APP7
+
+EXTAPP3 -right-> APP7
+
+EXTAPP1 --> APP1
+
+APP5 --> APP6
+APP5 -down-> APP9
+APP5 --> APP3
+APP5 --> APP8
+
+APP3 --> APP2
+APP3 --> EXTAPP5
+APP3 --> EXTAPP6
+
+APP11 -up-> APP9
+APP9 -right-> APP6
+
+APP1 --> APP2
+
+APP7 --> APP5
+APP7 --> APP14
+
+APP10 --> APP5
+APP10 --> APP13
+APP10 -right-> APP16
+
+
+APP12 -right-> APP13
+
+APP15 --> APP13
+APP15 -up-> DB5
+
+APP14 -right-> DB4
+APP14 -right-> APP13
+
+APP8 --> DB3
+
+APP13 -right-> APP5
+APP13 -down-> DB2
+
+APP6 --> DB6
+
+APP2 --> DB1
+
+@enduml
